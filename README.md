@@ -16,3 +16,6 @@ by [Michael Hartl](http://michaelhartl.com/).
 
  - more changes in revise-README branch
  
+ - second round change in revise-README .....
+ - revise-README to be used in merge via Source Tree
+ 
