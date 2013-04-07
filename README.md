@@ -14,4 +14,5 @@ by [Michael Hartl](http://michaelhartl.com/).
 
  making changes while in revise-README branch
 
+ - more changes in revise-README branch
  
