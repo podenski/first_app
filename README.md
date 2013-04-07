@@ -11,4 +11,7 @@ by [Michael Hartl](http://michaelhartl.com/).
  - another thing
  - or two
  - for added effect
+
+ making changes while in revise-README branch
+
  
